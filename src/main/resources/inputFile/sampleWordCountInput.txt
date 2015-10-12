@@ -1,0 +1,1 @@
+Spark can also be used for compute-intensive tasks. This code estimates ? by "throwing darts" at a circle. We pick random points in the unit square ((0, 0) to (1,1)) and see how many fall in the unit circle. The fraction should be ? / 4, so we use this to get our estimate.
